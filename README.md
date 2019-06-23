@@ -3,6 +3,7 @@
 This note record the learning notes that I take when learning the knowledge of Web front-end development.
 
 #FLAG
+
 建一个个人网站，网站内容包括：
 
 番剧点评，记录我的追番列表
